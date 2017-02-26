@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://www.netbeans.org/ns/project/1">
+    <type>org.netbeans.modules.php.project</type>
+    <configuration>
+        <data xmlns="http://www.netbeans.org/ns/php-project/1">
+            <name>wastu.lrvl</name>
+        </data>
+        <spellchecker-wordlist xmlns="http://www.netbeans.org/ns/spellchecker-wordlist/1">
+            <word>deskripsi</word>
+            <word>endforeach</word>
+            <word>jenisproduk</word>
+            <word>kode</word>
+            <word>MDGY</word>
+            <word>Merk</word>
+            <word>Mudagaya</word>
+            <word>nama</word>
+            <word>Produk</word>
+            <word>rdetail</word>
+            <word>vform</word>
+            <word>vindex</word>
+            <word>vlist</word>
+            <word>vmain</word>
+        </spellchecker-wordlist>
+    </configuration>
+</project>
